@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Mohamed Kasalh Banner"/>
+<img src="./assets/1787227824872.png" width="100%" alt="David Gabriel Banner"/>
 
 <br/>
 
@@ -11,8 +11,6 @@
 
 </div>
 
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=ff64da&bg=00000000no=7&ff=digi&tb=Visits%3A++&ta=" /></p>
 
 <br/>
 
