@@ -11,6 +11,9 @@
 
 </div>
 
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=ff64da&bg=00000000no=7&ff=digi&tb=Visits%3A++&ta=" /></p>
+
 <br/>
 
 <table>
@@ -109,17 +112,19 @@ Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu pr�
 
 <div align="center">
 
-### 📌 
+### 📌 Mᥡ Pr᥆jᥱᥴt᥉
 
+| Projeto | Descrição | Tecnologias | Link |
+| :--- | :--- | :--- | :--- |
+| **Projeto 1** | Primeiro site construído na aula do SENAI | HTML, CSS | [Acessar](#) |
+| **Projeto 2** | Exercícios e algoritmos em C# | C# | [Acessar](#) |
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Kasalh&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff" width="100%"/>
+
 <br/>
-<img src="https://streak-stats.demolab.com/?user=Mohamed-Kasalh&theme=radical&hide_border=true&background=0d1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" width="100%"/>
-</div>
 
 </td>
 </tr>
@@ -129,10 +134,10 @@ Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu pr�
 
 <div align="center">
 
-### 🏆 Achievements
+### 🏆 Ａｃｈｉｅｖｅｍｅｎｔｓ
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Kasalh&theme=radical&no-frame=true&row=1&margin-w=15" />
-
+> 🏁 **Grand Prix SENAI de Inovação**  
+> *Certificado de participação no desafio de inovação do SENAI, focado em trabalho em equipe, ideação e resolução de problemas tecnológicos.*
 <br/><br/>
 
 <img src="./assets/feather.png" width="60"/>
