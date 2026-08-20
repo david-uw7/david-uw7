@@ -17,23 +17,23 @@
 <tr>
 <td width="180" align="center" valign="top">
 
-<img src="./assets/avatar.jpg" width="150" height="150" style="border-radius:50%;" alt="Mohamed Kasalh"/>
+<img src="./assets/marvel_cosmic_invasion_spider_man_by_predator_assassin_dl2plk9.gif" width="150" height="150" style="border-radius:50%;" alt="Mohamed Kasalh"/>
 
-### David
-**Gabriel**
+### 𝕯𝖆𝖛𝖎𝖉 <br> 
+𝕲𝖆𝖇𝖗𝖎𝖊𝖑
 
 _Estudando constantemente algo novo_
 
-📍 Egypt
+📍 Brazil | 🇧🇷 PT-BR
 
-📧 mohamedkasalh@gmail.com
+📧 santoswx001@gmail.com
 
 🔗 [Portfolio](#)
 
 </td>
 <td valign="top">
 
-### Who Am I?
+𝐖𝐡𝐨 𝐀𝐦 𝐈 ?
 
 Sou estudante de **Técnico em Desenvolvimento de Sistemas (TDS)** no SENAI, apaixonado por tecnologia e em constante aprendizado. Tenho me dedicado a construir uma base sólida no desenvolvimento de software, explorando desde o hardware até a web.
 
@@ -47,10 +47,14 @@ Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu pr�
 
 <div align="center">
 
-### You can Click here
+𝙵𝚊𝚕𝚎 𝙲𝚘𝚖𝚒𝚐𝚘 𝙰𝚚𝚞𝚒:
 
-<a href="mailto:mohamedkasalh@gmail.com"><img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/></a>
-<a href="https://mohamed-kasalh.github.io/Shadow-Project/"><img src="https://img.shields.io/badge/PROJECT-red?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000"/></a>
+ ![Static Badge](https://img.shields.io/badge/instagram-EE4B2B?style=for-the-badge&logo=instagram&logoColor=FFFFFF&logoSize=000000&labelColor=000000)
+ ![Static Badge](https://img.shields.io/badge/gmail-EE4B2B?style=for-the-badge&logo=gmail&logoColor=FFFFFF&logoSize=000000&labelColor=000000)
+ ![Static Badge](https://img.shields.io/badge/whatsapp-EE4B2B?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&logoSize=000000&labelColor=000000)
+ <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/81c61715-72e5-4a3a-8e17-580eecc6bc7d" />
+![Static Badge](https://img.shields.io/badge/linkedin-EE4B2B?style=for-the-badge&logoColor=FFFFFF&logoSize=000000&labelColor=000000)
+
 
 </div>
 
@@ -62,9 +66,10 @@ Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu pr�
 
 > ### ⚠️ Caution
 >
-> Code is never finished, it only gets better.
+> O código nunca está finalizado, ele apenas melhora.
+> 
 >
-> What you see here is built with practice, curiosity, and persistence.
+> O que você vê aqui é construído com prática, curiosidade e persistência.
 
 </td>
 <td width="30%" align="center">
@@ -82,7 +87,7 @@ Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu pr�
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Kasalh&theme=redical&hide_border=true&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=david-uw7&theme=redical&hide_border=true&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff" width="100%"/>
 </div>
 
 <br/>
@@ -97,16 +102,14 @@ Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu pr�
 <tr>
 <td width="60%" valign="top" align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,py,cpp,nodejs,tailwind,figma,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,py,git,github,vscode,arduino&theme=dark" />
 
 </td>
 <td width="40%" valign="top">
 
 <div align="center">
 
-### 📌 Shadow-Project
-Front-end project — built with CSS.
-🔗 [Live Demo](https://mohamed-kasalh.github.io/Shadow-Project/)
+### 📌 
 
 </div>
 
