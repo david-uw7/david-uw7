@@ -38,9 +38,9 @@ _Estudando constantemente algo novo_
 
 Sou estudante de **Técnico em Desenvolvimento de Sistemas (TDS)** no SENAI, apaixonado por tecnologia e em constante aprendizado. Tenho me dedicado a construir uma base sólida no desenvolvimento de software, explorando desde o hardware até a web.
 
-Atualmente, trabalho no VS Code e estou explorando o GitHub para versionar e compartilhar meus projetos. No meu repertório atual de estudos, tenho praticado C#, Python, Banco de Dados e a lógica de programação de microcontroladores com Arduino Uno.
+Atualmente, trabalho no **VS Code** e estou explorando o **GitHub** para versionar e compartilhar meus projetos. No meu repertório atual de estudos, tenho praticado **C#**, **Python**, **Banco de Dados** e a **lógica de programação de microcontroladores** com **Arduino Uno**.
 
-Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu próximo passo já está traçado: assim que dominar essa estrutura, vou mergulhar no JavaScript para criar aplicações cada vez mais dinâmicas e interativas. Seja bem-vindo ao meu perfil!
+Na frente do desenvolvimento web, estou me aprofundando em **HTML** e **CSS**. O meu próximo passo já está traçado: assim que dominar essa estrutura, vou mergulhar no **JavaScript** para criar aplicações cada vez mais dinâmicas e interativas. Seja bem-vindo ao meu perfil!
 
 </td>
 </tr>
