@@ -74,7 +74,7 @@ Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu pr�
 
 </td>
 <td width="30%" align="center">
-<img src="./assets/hat.jpg" width="140"/>
+<img src="./assets/___3_-removebg-preview.png" width="140"/>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu pr�
 <br/>
 
 <div align="center">
-<img src="./assets/ribbon1.jpg" width="380"/>
+<img src="./assets/_ (4) (1) (1).jpeg" width="380"/>
 </div>
 
 <br/>
@@ -94,7 +94,7 @@ Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu pr�
 <br/>
 
 <div align="center">
-<img src="./assets/ribbon2.jpg" width="380"/>
+<img src="./assets/_ (2) (1).jpeg" width="380"/>
 </div>
 
 <br/>
@@ -138,7 +138,9 @@ Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu pr�
 > *Certificado de participação no desafio de inovação do SENAI, focado em trabalho em equipe, ideação e resolução de problemas tecnológicos.*
 <br/><br/>
 
-<img src="./assets/feather.png" width="60"/>
+<p>𝚃𝙾 𝙱𝙴 𝙲𝙾𝙽𝚃𝙸𝙽𝚄𝙴𝙳...</p>
+
+<img src="assets/___1_-removebg-preview.png" width="250"/>
 
 </div>
 
