@@ -12,6 +12,7 @@
 </div>
 
 
+
 <br/>
 
 <table>
@@ -42,6 +43,9 @@ Atualmente, trabalho no VS Code e estou explorando o GitHub para versionar e com
 
 Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu próximo passo já está traçado: assim que dominar essa estrutura, vou mergulhar no JavaScript para criar aplicações cada vez mais dinâmicas e interativas. Seja bem-vindo ao meu perfil!
 
+ 
+<img src="assets/the_red_balloon_by_kat__yuusha_dc2hcj9.gif"/>
+
 </td>
 </tr>
 </table>
@@ -50,11 +54,11 @@ Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu pr�
 
 𝙵𝚊𝚕𝚎 𝙲𝚘𝚖𝚒𝚐𝚘 𝙰𝚚𝚞𝚒:
 
- ![Static Badge](https://img.shields.io/badge/instagram-EE4B2B?style=for-the-badge&logo=instagram&logoColor=FFFFFF&logoSize=000000&labelColor=000000)
- ![Static Badge](https://img.shields.io/badge/gmail-EE4B2B?style=for-the-badge&logo=gmail&logoColor=FFFFFF&logoSize=000000&labelColor=000000)
- ![Static Badge](https://img.shields.io/badge/whatsapp-EE4B2B?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&logoSize=000000&labelColor=000000)
+![Static Badge](https://img.shields.io/badge/instagram-D4A017?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=000000)
+ ![Static Badge](https://img.shields.io/badge/gmail-D4A017?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000)
+ ![Static Badge](https://img.shields.io/badge/whatsapp-D4A017?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&labelColor=000000)
  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/81c61715-72e5-4a3a-8e17-580eecc6bc7d" />
-![Static Badge](https://img.shields.io/badge/linkedin-EE4B2B?style=for-the-badge&logoColor=FFFFFF&logoSize=000000&labelColor=000000)
+![Static Badge](https://img.shields.io/badge/linkedin-D4A017?style=for-the-badge&logoColor=FFFFFF&logoSize=000000&labelColor=000000)
 
 
 </div>
@@ -88,7 +92,7 @@ Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu pr�
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=david-uw7&theme=redical&hide_border=true&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=david-uw7&theme=redical&hide_border=true&bg_color=0d1117&color=FFFFFF&line=FFFFFF&point=ffffff" width="100%"/>
 </div>
 
 <br/>
