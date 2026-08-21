@@ -1,17 +1,20 @@
 <div align="center">
 
-<img src="./assets/1787227824872.png" width="100%" alt="David Gabriel Banner"/>
+<img src="./assets/Inserir um título.png" width="100%" alt="Pennywise Banner"/>
 
 <br/>
 
-
-<img src="https://img.shields.io/badge/⭐_STARS-0-red?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/🍴_FORKS-0-red?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/👥_FOLLOWERS-0-red?style=for-the-badge&labelColor=000000"/>
-
+<div align="center" width="100%">
+  
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF0000&width=900&size=22&center=true&lines=Hello,+welcome!;My+name+is+David;I'm+from+Brazil;I'm+a+systems+development+student." alt="Typing SVG"/>
 </div>
 
+<img src="https://img.shields.io/badge/⭐_STARS-0-yellow?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🍴_FORKS-0-yellow?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/👥_FOLLOWERS-0-yellow?style=for-the-badge&labelColor=000000"/>
 
+</div>
 
 <br/>
 
@@ -19,7 +22,7 @@
 <tr>
 <td width="180" align="center" valign="top">
 
-<img src="./assets/marvel_cosmic_invasion_spider_man_by_predator_assassin_dl2plk9.gif" width="150" height="150" style="border-radius:50%;" alt="Mohamed Kasalh"/>
+<img src="./assets/1000026825.gif" width="120" height="200" style="border-radius:50%;" alt="Pennywise"/>
 
 ### 𝕯𝖆𝖛𝖎𝖉 <br> 
 𝕲𝖆𝖇𝖗𝖎𝖊𝖑
