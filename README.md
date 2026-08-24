@@ -1,20 +1,16 @@
 <div align="center">
 
-<img src="./assets/Inserir um título.png" width="100%" alt="Pennywise Banner"/>
+<img src="./assets/1787227824872.png" width="100%" alt="David Gabriel Banner"/>
 
 <br/>
 
-<div align="center" width="100%">
-  
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF0000&width=900&size=22&center=true&lines=Hello,+welcome!;My+name+is+David;I'm+from+Brazil;I'm+a+systems+development+student." alt="Typing SVG"/>
-</div>
 
-<img src="https://img.shields.io/badge/⭐_STARS-0-yellow?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/🍴_FORKS-0-yellow?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/👥_FOLLOWERS-0-yellow?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/⭐_STARS-0-red?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🍴_FORKS-0-red?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/👥_FOLLOWERS-0-red?style=for-the-badge&labelColor=000000"/>
 
 </div>
+
 
 <br/>
 
@@ -22,7 +18,7 @@
 <tr>
 <td width="180" align="center" valign="top">
 
-<img src="./assets/1000026825.gif" width="120" height="200" style="border-radius:50%;" alt="Pennywise"/>
+<img src="./assets/marvel_cosmic_invasion_spider_man_by_predator_assassin_dl2plk9.gif" width="150" height="150" style="border-radius:50%;" alt="Mohamed Kasalh"/>
 
 ### 𝕯𝖆𝖛𝖎𝖉 <br> 
 𝕲𝖆𝖇𝖗𝖎𝖊𝖑
@@ -46,9 +42,6 @@ Atualmente, trabalho no VS Code e estou explorando o GitHub para versionar e com
 
 Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu próximo passo já está traçado: assim que dominar essa estrutura, vou mergulhar no JavaScript para criar aplicações cada vez mais dinâmicas e interativas. Seja bem-vindo ao meu perfil!
 
- 
-<img src="assets/the_red_balloon_by_kat__yuusha_dc2hcj9.gif"/>
-
 </td>
 </tr>
 </table>
@@ -57,11 +50,11 @@ Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu pr�
 
 𝙵𝚊𝚕𝚎 𝙲𝚘𝚖𝚒𝚐𝚘 𝙰𝚚𝚞𝚒:
 
-![Static Badge](https://img.shields.io/badge/instagram-D4A017?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=000000)
- ![Static Badge](https://img.shields.io/badge/gmail-D4A017?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000)
- ![Static Badge](https://img.shields.io/badge/whatsapp-D4A017?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&labelColor=000000)
+ ![Static Badge](https://img.shields.io/badge/instagram-EE4B2B?style=for-the-badge&logo=instagram&logoColor=FFFFFF&logoSize=000000&labelColor=000000)
+ ![Static Badge](https://img.shields.io/badge/gmail-EE4B2B?style=for-the-badge&logo=gmail&logoColor=FFFFFF&logoSize=000000&labelColor=000000)
+ ![Static Badge](https://img.shields.io/badge/whatsapp-EE4B2B?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&logoSize=000000&labelColor=000000)
  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/81c61715-72e5-4a3a-8e17-580eecc6bc7d" />
-![Static Badge](https://img.shields.io/badge/linkedin-D4A017?style=for-the-badge&logoColor=FFFFFF&logoSize=000000&labelColor=000000)
+![Static Badge](https://img.shields.io/badge/linkedin-EE4B2B?style=for-the-badge&logoColor=FFFFFF&logoSize=000000&labelColor=000000)
 
 
 </div>
@@ -81,7 +74,7 @@ Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu pr�
 
 </td>
 <td width="30%" align="center">
-<img src="./assets/___3_-removebg-preview.png" width="140"/>
+<img src="./assets/hat.jpg" width="140"/>
 </td>
 </tr>
 </table>
@@ -89,19 +82,19 @@ Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu pr�
 <br/>
 
 <div align="center">
-<img src="./assets/_ (4) (1) (1).jpeg" width="380"/>
+<img src="./assets/ribbon1.jpg" width="380"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=david-uw7&theme=redical&hide_border=true&bg_color=0d1117&color=FFFFFF&line=FFFFFF&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=david-uw7&theme=redical&hide_border=true&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="./assets/_ (2) (1).jpeg" width="380"/>
+<img src="./assets/ribbon2.jpg" width="380"/>
 </div>
 
 <br/>
@@ -145,9 +138,7 @@ Na frente do desenvolvimento web, estou me aprofundando em HTML e CSS. O meu pr�
 > *Certificado de participação no desafio de inovação do SENAI, focado em trabalho em equipe, ideação e resolução de problemas tecnológicos.*
 <br/><br/>
 
-<p>𝚃𝙾 𝙱𝙴 𝙲𝙾𝙽𝚃𝙸𝙽𝚄𝙴𝙳...</p>
-
-<img src="assets/___1_-removebg-preview.png" width="250"/>
+<img src="./assets/feather.png" width="60"/>
 
 </div>
 
