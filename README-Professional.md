@@ -21,20 +21,15 @@
 
 <h2>About me</h2>
 
-Hello, I'm **Nurmuhammet Altybaev** — a Frontend Developer focused on building clean, scalable, and modern web applications.  
-I value structure, performance, and long-term maintainability over hype.
+Sou estudante de **Técnico em Desenvolvimento de Sistemas (TDS)** no SENAI, apaixonado por tecnologia e em constante aprendizado. Tenho me dedicado a construir uma base sólida no desenvolvimento de software, explorando desde o hardware até a web.
+
+Atualmente, trabalho no **VS Code** e estou explorando o **GitHub** para versionar e compartilhar meus projetos. No meu repertório atual de estudos, tenho praticado **C#**, **Python**, **Banco de Dados** e a **lógica de programação** de microcontroladores com **Arduino Uno**.
+
+Na frente do desenvolvimento web, estou me aprofundando em **HTML** e **CSS**. O meu próximo passo já está traçado: assim que dominar essa estrutura, vou mergulhar no JavaScript para criar aplicações cada vez mais dinâmicas e interativas. Seja bem-vindo ao meu perfil!
 
 <br/>
 
-**Frontend Developer**  
-**React / Next.js / TypeScript**  
-**Modern UI & clean architecture**  
-**Strong GitHub collaboration mindset**
-
-</div>
-
 ---
-
 <div align="center">  
   
 <h2>Technologies</h2>
@@ -44,26 +39,9 @@ I value structure, performance, and long-term maintainability over hype.
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
-![Sass](https://img.shields.io/badge/SASS-000000?style=flat&logo=sass&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=flat&logo=typescript&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
 
 <br/>
-
-<h3>Frameworks & Libraries</h3>
-
-![React](https://img.shields.io/badge/REACT-000000?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/VITE-000000?style=flat&logo=vite&logoColor=white)
-![Redux](https://img.shields.io/badge/REDUX-000000?style=flat&logo=redux&logoColor=white)
-![RTK Query](https://img.shields.io/badge/RTK_QUERY-000000?style=flat&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/ZUSTAND-000000?style=flat&logo=react&logoColor=white)
-
-<br/>
-
-<h3>Team Collaboration</h3>
-
-Experienced in team development using **GitHub**, pull requests, code reviews, and structured workflows.
 
 </div>
 
@@ -78,14 +56,14 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 <td width="50%" align="center">
   <h4>Most Used Languages</h4>
   <img 
-    src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=Joaninnn&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
+    src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=david-uw7&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
     alt="Top Languages"
   />
 </td>
 <td width="50%" align="center">
   <h4>GitHub Stats</h4>
   <img 
-    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=Joaninnn&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=david-uw7&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
     alt="GitHub Stats"
   />
 </td>
@@ -95,17 +73,15 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 <h3>Contribution Streak</h3>
 
 <img 
-  src="https://streak-stats.demolab.com?user=Joaninnn&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
+  src="https://streak-stats.demolab.com?user=david-uw7&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
   alt="GitHub Streak"
 />
 
 <h3>Contribution Graph</h3>
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Joaninnn&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Nurmuhammet%20Altybaev's%20Contribution%20Graph"
-  alt="Activity Graph"
-  width="100%"
-/>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=david-uw7&theme=redical&hide_border=true&bg_color=0d1117&color=FFFFFF&line=FFFFFF&point=ffffff" width="100%"/>
+</div>
 
 </div>
 
@@ -121,7 +97,7 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 
 <h3>Visitor Count</h3>
 
-![](https://komarev.com/ghpvc/?username=Joaninnn&color=000000&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=david-uw7&color=000000&style=flat-square&label=Profile+Views)
 
 ---
 
