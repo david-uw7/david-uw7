@@ -89,10 +89,18 @@ Na frente do desenvolvimento web, estou me aprofundando em **HTML** e **CSS**. O
 
 <div align="center">
 
-<h3>Random Dev Quote</h3>
+<td width="40%" valign="top">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
 
+### 📌 Mᥡ Pr᥆jᥱᥴt᥉
+
+| Projeto | Descrição | Tecnologias | Link |
+| :--- | :--- | :--- | :--- |
+| **Projeto 1** | Primeiro site construído na aula do SENAI | HTML, CSS | [Acessar](#) |
+| **Projeto 2** | Exercícios e algoritmos em C# | C# | [Acessar](#) |
+</div>
+</td>
 ---
 
 <h3>Visitor Count</h3>
